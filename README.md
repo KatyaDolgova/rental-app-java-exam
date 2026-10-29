@@ -15,7 +15,7 @@
 ## Технологии
 
 - Java 17, Servlet API 4.0, JSP, Maven
-- MySQL (JDBC, без ORM — все запросы через `PreparedStatement`)
+- MySQL (JDBC, без ORM - все запросы через `PreparedStatement`)
 - Jetty (`jetty-maven-plugin`) как встроенный контейнер для разработки
 
 ## Настройка
