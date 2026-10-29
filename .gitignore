@@ -1,0 +1,6 @@
+target/
+.project
+.classpath
+.settings/
+hs_err_pid*.log
+src/main/resources/db.properties
